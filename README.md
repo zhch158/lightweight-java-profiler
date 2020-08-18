@@ -9,9 +9,8 @@ This document contains information on how to use the profiler.
 Details
 First, check out the profiler:
 
-```xml
 
-svn checkout http://lightweight-java-profiler.googlecode.com/svn/trunk/ lightweight-java-profiler-read-only ```
+svn checkout http://lightweight-java-profiler.googlecode.com/svn/trunk/ lightweight-java-profiler-read-only
 
 Then change into the directory, and build: cd lightweight-java-profiler-read-only make all
 
